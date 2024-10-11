@@ -1,1 +1,2 @@
-now id deleted, modified, and differente character
+#!/bin/bash
+echo "The School is open!"
